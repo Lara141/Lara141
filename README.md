@@ -60,9 +60,12 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%"> 
 </p>
 
-### 📁 Proyectos
+### 📁 Proyectos Destacados
 
 <div align="center">
+   <a href="https://github.com/Lara141/BarDeComidas_AcostaLara_BenitezValentina">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Lara141&repo=gastosChat&theme=algolia&locale=es&border_radius=10" alt="Proyecto gastosChat" />
+  </a>
   <a href="https://github.com/Lara141/gastosChat">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Lara141&repo=gastosChat&theme=algolia&locale=es&border_radius=10" alt="Proyecto gastosChat" />
   </a>
