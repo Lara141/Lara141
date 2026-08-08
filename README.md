@@ -64,13 +64,13 @@
 
 <div align="center">
    <a href="https://github.com/Lara141/BarDeComidas_AcostaLara_BenitezValentina">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Lara141&repo=gastosChat&theme=algolia&locale=es&border_radius=10" alt="Proyecto gastosChat" />
+    <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Lara141&repo=BarDeComidas_AcostaLara_BenitezValentina&theme=algolia&locale=es&border_radius=10" alt="Proyecto BarDeComidas_AcostaLara_BenitezValentina" />
   </a>
   <a href="https://github.com/Lara141/gastosChat">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Lara141&repo=gastosChat&theme=algolia&locale=es&border_radius=10" alt="Proyecto gastosChat" />
+    <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Lara141&repo=gastosChat&theme=algolia&locale=es&border_radius=10" alt="Proyecto gastosChat" />
   </a>
   <a href="https://github.com/Lara141/univia">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Lara141&repo=univia&theme=algolia&locale=es&border_radius=10" alt="Proyecto Univia" />
+    <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Lara141&repo=univia&theme=algolia&locale=es&border_radius=10" alt="Proyecto Univia" />
   </a>
 </div>
 
