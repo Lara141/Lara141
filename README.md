@@ -116,10 +116,6 @@ Universidad Nacional del Nordeste (FaCENA - UNNE)
 **Analista Programadora Universitaria**  
 Título intermedio de la Licenciatura en Sistemas de la Información
 
-**Bachiller en Informática**  
-Colegio Secundario Pte. Dr. Arturo Umberto Illia  
-**2017 - 2022**
-
 ---
 
 ## 📈 Estadísticas de GitHub
